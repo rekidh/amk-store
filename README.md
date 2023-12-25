@@ -1,0 +1,1 @@
+catatan saya menemukan bahwasanya ada beberapa keadaan yang membuat sebuah reference id atau uuid pada sebuah tabel yang belum di buat akan membuat error `("Foreign key constraint is incorrectly formed")`maka dari itu perhatikan kelompok angka ke 4 dari tabel berikut `2023_12_22_115540_create_categories_table`
